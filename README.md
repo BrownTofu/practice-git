@@ -13,9 +13,10 @@ this is added after issue is created
 
 | Person Name  | R0le |
 | ------------- | ------------- |
-| Muhammad Farras Ma'ruf  | Leader  |
-| Tania Dwi Haryanti  | Co Leader  |
+| Muhammad Farras Ma'ruf  | CEO  |
+| Tania Dwi Haryanti  | Vice CEO  |
 | Muhammad Faris Ma'ruf | CTO |
+| Adenya Muhammad Faris Ma'ruf | CFO |
 
 ## Code
 ```kotlin
