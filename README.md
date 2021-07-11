@@ -11,8 +11,8 @@ Saya adalah seorang anak dari orang tua saya, seorang suami dari istri saya, seo
 ## Ketertarikan
 I like to learn a new thing but it doesnt mean that Im smart. Im just trying to be smart
 
-## Adding answer of issues
-this is added after issue is created
+## Anggota Organisasi
+
 
 | Person Name  | R0le |
 | ------------- | ------------- |
