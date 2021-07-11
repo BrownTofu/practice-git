@@ -5,8 +5,6 @@
 ## About Me
 # Latihan Git
 
-![image loading](img_load.gif)
-
 ## Tetang saya
 Saya adalah seorang anak dari orang tua saya, seorang suami dari istri saya, seorang ayah dari anak saya, dan seorang mahasiswa prodi Sistem Informasi, serta seorang akuntan ditempat saya bekerja
 
