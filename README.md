@@ -1,7 +1,6 @@
 # Latihan Git
 
 ![logo](wedang.jpg)
-![another logo](img_load.gif)
 
 ## About Me
 I'am a son, husband, father, and System Informastion student at Open University
