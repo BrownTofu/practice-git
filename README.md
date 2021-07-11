@@ -1,6 +1,5 @@
 # Latihan Git
 
-![logo](wedang.jpg)
 ![image loading](img_load.gif)
 
 ## About Me
