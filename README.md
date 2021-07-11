@@ -2,13 +2,13 @@
 
 ![image loading](img_load.gif)
 
-## About Me
+
 # Latihan Git
 
 ## Tetang saya
 Saya adalah seorang anak dari orang tua saya, seorang suami dari istri saya, seorang ayah dari anak saya, dan seorang mahasiswa prodi Sistem Informasi, serta seorang akuntan ditempat saya bekerja
 
-## Interest
+## Ketertarikan
 I like to learn a new thing but it doesnt mean that Im smart. Im just trying to be smart
 
 ## Adding answer of issues
