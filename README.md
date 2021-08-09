@@ -1,4 +1,4 @@
-# Latihan Git dan GitHub (Semoga Allah Mudahkan)
+# Latihan Git dan GitHub (Semoga Allah Mudahkan) Aamiin
 
 ![image loading](img_load.gif)
 
