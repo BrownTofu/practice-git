@@ -1,4 +1,4 @@
-# Latihan Git
+# Latihan Git dan GitHub
 
 ![image loading](img_load.gif)
 
