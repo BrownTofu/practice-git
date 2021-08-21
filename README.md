@@ -1,4 +1,5 @@
-# Latihan Git dan GitHub (Semoga Allah Mudahkan) Aamiin
+# Latihan Git dan GitHub
+File dari git unstuck
 
 ![image loading](img_load.gif)
 
